@@ -1,0 +1,17 @@
+css
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(180deg, #05445E 0%, #75E6DA 100%); /* Navy Blue to Blue Green */
+  min-height: 100vh;
+  overflow: hidden; /* Prevent scroll during animation */
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: rgba(212, 241, 244, 0.3); /* Baby Blue with transparency */
+}
+
